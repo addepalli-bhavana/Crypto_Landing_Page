@@ -25,5 +25,5 @@
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
--  [Project Live Link !](https://631c3db695a3650ea14f6663--unique-cannoli-a2717a.netlify.app/)
+-  [Project Live Link !](https://631c44675fa595130bff8f8e--singular-selkie-3a1055.netlify.app/)
 
