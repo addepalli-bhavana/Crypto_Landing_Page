@@ -4,6 +4,7 @@
   margin: 0px;
   list-style-type: none;
 }
+/* nav-bar */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -54,6 +55,7 @@
   background-color: #ba0cc5;
   font-family: poppins;
 }
+/* hero-section */
 section[aria-label='hero'] {
   background-image: url('assets/background-image.png');
   background-size: 100% 100%;
@@ -87,6 +89,7 @@ p {
   font-family: poppins;
   padding: 15px 50px;
 }
+/* hover-effect */
 li:hover {
   cursor: pointer;
   font-weight: bold;
